@@ -1,0 +1,7 @@
+# 🕰️ CHANGELOG
+
+## v0.1.0 - 2025-04-12
+- 建立 HAOF-UFS-protocols 倉庫
+- 完成七大核心文檔初稿：
+  - README / WHITEPAPER / TECH_GUIDE
+  - LICENSE / CONTRIBUTING / GLOSSARY / PHILOSOPHY
