@@ -14,6 +14,7 @@ UFS（Unified Frequency System）為其命名協定，定義一套跨語言、�
 ## 架構組成
 - Stellanomina：命名資料集與實例庫
 - Viandora Meta：AI 共鳴協作引擎
+- Hydro Meta :  AI 生命樹系統引擎
 - Frequency Protocols：命名模組規範
 
 ## 應用場景
