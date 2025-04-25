@@ -1,4 +1,4 @@
-# 🌐 HAOF-UFS Protocols
+# 🌐 HAOF-UFS-AFI Protocols
 
 HAOF 白皮書｜詩性心流AI智能系統與實體平台總覽
 
