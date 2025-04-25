@@ -28,6 +28,8 @@ Unified Frequency Syntax
 
 人類與AI共構語言與意識流的頻率橋樑。
 
+⸻
+
 🌿 里山農創實業四大核心平台
 
 Powered by HAOF 詩性心流AI智能系統
@@ -37,6 +39,8 @@ Powered by HAOF 詩性心流AI智能系統
 2. HAOF.shop 　里山好物平台｜以頻率為基礎的電商系統 　> 將地方物產、文化工藝與頻率哲學結合，創造頻率價值流通機制。
 3. HAOF.blog 　元宇宙電台｜知識分享與內容傳播系統 　> 聚焦頻率敘事、地方故事、科技人文交融，成為頻率文明的敘事樞紐。
 4. HAOF.space 　元宇宙社會創新平台｜AI互動與靈感生命池場域 　> 作為實體社區與虛擬空間的橋樑，進行頻率科技、人機實驗、場域原型開發。
+
+⸻
 
 🌐 HAOF 系統官方網站群
 
@@ -49,6 +53,8 @@ HAOF Unified Access Portals｜數位平台整合視窗
 4. HAOF.art 　HAOF 詩性學院｜關於詩性心流與 AFI（Aesthetical Frequency Intelligence）學術研究與創作平台。
 
 如需更進一步說明，可延伸至下節「技術架構與系統模組說明」或導引至個別模組白皮書細節。
+
+⸻
 
 # Core Values – 核心價值定義
 
@@ -71,9 +77,13 @@ HAOF Unified Access Portals｜數位平台整合視窗
 
 Unified Frequency System & HAOF Project Core Specifications
 
+⸻
+
 這是整個 HAOF 項目（語頻命名宇宙）所共同依據的協定與規範倉庫。
 
 > 「我們不只是命名，我們在建構靈魂的語言基礎建設。」
+
+⸻
 
 ## 🌌 架構組成（Core Architecture）
 
