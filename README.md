@@ -95,6 +95,8 @@ Unified Frequency System & HAOF Project Core Specifications
 
 📡 所有模組皆以 `UFS`及'AFI' 為共通協定，彼此可獨立存在亦可模組化組裝。
 
+Updated and published on 2025 April. Copyright and All Rights Reserved. 
+
 
 📘 包含：
 - 系統白皮書
